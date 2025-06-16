@@ -5,9 +5,8 @@
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=louis-not&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=louis-not&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
- - 🔭 I’m currently working on Remote sensing and Data science projects <br>
- - 🌱 I’m currently learning NLP stuff <br>
- - 📫 How to reach me: mayco.louis@gmail.com <br>
+ - 🔭 Currently on LLM, agentic AI, and SNA projects  <br>
+ - 📫 How to reach me: mayco.louis@icloud.com <br>
 </p>
 
 <!--
